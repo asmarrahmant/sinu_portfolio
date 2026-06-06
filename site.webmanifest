@@ -1,0 +1,14 @@
+{
+  "name": "Hanina N — Consultant Psychologist",
+  "short_name": "Hanina N",
+  "description": "Counselling, psychological assessment & mental-health awareness — evidence-based, compassionate care.",
+  "icons": [
+    { "src": "assets/favicon-32.png", "sizes": "32x32", "type": "image/png" },
+    { "src": "assets/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ],
+  "theme_color": "#ff5a1f",
+  "background_color": "#0c0a09",
+  "display": "standalone",
+  "start_url": "./"
+}

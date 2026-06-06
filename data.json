@@ -1,0 +1,204 @@
+{
+  "brand": {
+    "name": "Hanina N",
+    "role": "Consultant Psychologist",
+    "logo": "assets/logo.svg"
+  },
+
+  "nav": {
+    "links": [
+      { "label": "About", "href": "#about" },
+      { "label": "How I Help", "href": "#help" },
+      { "label": "Expertise", "href": "#expertise" },
+      { "label": "Journey", "href": "#journey" },
+      { "label": "Sessions", "href": "#sessions" },
+      { "label": "Contents", "href": "#reels" }
+    ],
+    "cta": { "label": "Book a Session", "href": "#contact" }
+  },
+
+  "hero": {
+    "badge": "PSYCHOLOGIST",
+    "title": { "lead": "consultant", "grad": "psychologist" },
+    "lead": "Hi, I'm <strong>Hanina&nbsp;N</strong> — a dedicated and compassionate psychologist helping individuals and communities <span class=\"hl\">manage stress, build resilience and reclaim emotional well-being</span> through evidence-based, judgement-free care.",
+    "ctaText": "BOOK A CONSULTATION",
+    "note": "* Confidential first conversation — your details are kept private and used only to reach you.",
+    "photo": "assets/profile.jpeg",
+    "photoAlt": "Hanina N, Consultant Psychologist",
+    "cards": [
+      { "type": "dot", "title": "MSc Psychology", "sub": "Batch Topper · 81%" },
+      { "type": "icon", "icon": "★", "title": "Compassion-first", "sub": "Safe, non-judgemental space" },
+      { "type": "avatars", "avatars": ["K", "T", "M"], "title": "8+ Programs", "sub": "Schools, camps & clinics" }
+    ]
+  },
+
+  "band": {
+    "text": "A safe, evidence-based space to help you <strong>move from overwhelmed to in control — and start living well again.</strong>",
+    "stats": [
+      { "count": 8, "suffix": "+", "label": "Programs & Sessions" },
+      { "count": 4, "suffix": "", "label": "Languages Spoken" },
+      { "count": 81, "suffix": "%", "label": "MSc Topper Score" }
+    ]
+  },
+
+  "about": {
+    "eyebrow": "About me",
+    "title": { "lead": "Care that listens", "grad": "first." },
+    "photo": "assets/profile.jpeg",
+    "photoAlt": "Hanina N",
+    "photoTag": "Hanina N",
+    "paragraphs": [
+      "I'm a <strong>Consultant Psychologist</strong> and <strong>MSc Psychology topper</strong> with hands-on experience across counselling, psychological assessment, psychiatric training and mental-health awareness programs. I believe healing starts with feeling truly heard.",
+      "From individual counselling sessions and clinical documentation to awareness drives in schools and rehabilitation centres, my work centres on <span class=\"hl\">empowering people to understand themselves and manage life's pressures</span> with practical, evidence-based tools.",
+      "I'm committed to advancing <strong>accessible, effective and stigma-free mental-health care</strong> — for students, families and communities alike."
+    ],
+    "facts": [
+      { "label": "Role", "value": "Consultant Psychologist & Content Creator" },
+      { "label": "Based in", "value": "Tirur, Malappuram · Kerala, India" },
+      { "label": "Focus", "value": "Adolescent & young-adult well-being" },
+      { "label": "Age", "dob": "2002-09-08" },
+      { "label": "Nationality", "value": "Indian" }
+    ],
+    "ctaText": "Let's talk"
+  },
+
+  "approach": {
+    "eyebrow": "My Approach",
+    "title": { "lead": "Every mind tells a", "grad": "story." },
+    "body": "Thoughts, emotions and behaviour are deeply connected. My role is to help you read your own story — gently untangling the patterns behind stress, anxiety and self-doubt, and turning insight into <span class=\"hl\">practical, lasting change</span>.",
+    "points": [
+      "Evidence-based & rooted in psychological science",
+      "Confidential, warm and completely non-judgemental",
+      "Focused on understanding the person, not just the problem"
+    ],
+    "image": "assets/brain.png",
+    "imageAlt": "Neural brain — interconnected thoughts and emotions",
+    "ctaText": "Start the conversation"
+  },
+
+  "help": {
+    "title": { "lead": "This is for", "grad": "you", "tail": " if you want to…" },
+    "sub": "Three ways my practice supports your mental health and growth.",
+    "cards": [
+      { "media": "01", "num": "1", "title": "Talk it through with <span class=\"hl\">individual counselling</span>", "text": "One-to-one, confidential sessions for stress, anxiety, self-esteem and life transitions — guided by active listening and evidence-based techniques." },
+      { "media": "02", "num": "2", "title": "Understand yourself through <span class=\"hl\">psychological assessment</span>", "text": "Structured case-history taking, assessment and clear clinical documentation to map what's really going on — and build a plan that fits you." },
+      { "media": "03", "num": "3", "title": "Build healthier spaces with <span class=\"hl\">awareness sessions</span>", "text": "Engaging talks and workshops for schools, camps and communities on stress, screen-balance, habits and emotional well-being." }
+    ],
+    "ctaText": "YES, THIS IS FOR ME"
+  },
+
+  "expertise": {
+    "eyebrow": "Expertise",
+    "title": { "lead": "Skills built for", "grad": "real care." },
+    "sub": "A blend of clinical skill, communication and the human touch.",
+    "skillsTitle": "Core Skills",
+    "skills": [
+      "Psychological Assessment",
+      "Case History Taking",
+      "Counselling Skills",
+      "Clinical Documentation",
+      "Active Listening",
+      "Critical Thinking",
+      "Public Speaking",
+      "Mental Health Content Creation",
+      "MS Word · Excel · PowerPoint"
+    ],
+    "languagesTitle": "Languages",
+    "languages": [
+      { "name": "Malayalam", "level": "Native", "value": 100 },
+      { "name": "English", "level": "Professional", "value": 85 },
+      { "name": "Tamil", "level": "Limited Working", "value": 55 },
+      { "name": "Hindi", "level": "Elementary", "value": 35 }
+    ]
+  },
+
+  "journey": {
+    "eyebrow": "Experience & Education",
+    "title": { "lead": "My", "grad": "journey", "tail": " so far" },
+    "experienceTitle": "Experience",
+    "experience": [
+      { "time": "Oct 2025 — Present", "title": "Consultant Psychologist & Content Creator", "org": "Psyfos Centre for Mental Health & Well-being", "desc": "Individual counselling, psychological assessments and case documentation, plus mental-health content creation." },
+      { "time": "May 2024", "title": "Psychology Intern — Clinical & Psychiatry Training", "org": "Chethana Centre for Neuropsychiatric Rehabilitation", "desc": "Assisted in assessments, counselling and aversion therapy; conducted case-history taking under supervision." },
+      { "time": "College years", "title": "Yoga Instructor", "org": "Sahya Arts & Science College", "desc": "Led yoga training sessions supporting physical and mental balance for students." },
+      { "time": "Ongoing", "title": "Motivational Speaker", "org": "eBird Academy", "desc": "Guest sessions on stress management and academic pressure for school students." }
+    ],
+    "educationTitle": "Education",
+    "education": [
+      { "time": "2023 — 2025", "title": "MSc Psychology", "badge": "Topper · 81%", "org": "Sahya Arts & Science College · University of Calicut", "desc": "Postgraduate research on Body Dysmorphic Disorder & Self-Esteem among students." },
+      { "time": "2020 — 2023", "title": "BSc Psychology", "badge": "67%", "badgeMuted": true, "org": "Bhafakhy Yatheemkhana Arts & Science College · University of Calicut", "desc": "Foundations of clinical, cognitive and developmental psychology." },
+      { "time": "Higher Secondary", "title": "Higher Secondary Education", "org": "SSMHSS Theyyalingal", "desc": "Completed higher-secondary schooling with a focus that led to psychology." }
+    ],
+    "achievementsTitle": "Achievements",
+    "achievements": [
+      { "icon": "🏆", "title": "Topper — MSc Psychology", "sub": "University of Calicut" },
+      { "icon": "🌟", "title": "Appreciation for Dedication", "sub": "Psyfos Centre for Mental Health & Well-being" }
+    ],
+    "certificatesTitle": "Certificates",
+    "certificates": [
+      { "icon": "📜", "title": "Postgraduate Program", "sub": "Sahya Arts & Science College" },
+      { "icon": "🧠", "title": "Introduction to Psychotherapy Workshop", "sub": "Psyfos Centre for Mental Health & Well-being" },
+      { "icon": "⛺", "title": "NSS Activities · Special Camping", "sub": "University of Calicut & NSS" },
+      { "icon": "🗂️", "title": "Synopsis Presentation", "sub": "Sahya Arts & Science College" }
+    ]
+  },
+
+  "sessions": {
+    "eyebrow": "Programs & Sessions",
+    "title": { "lead": "Work in the", "grad": "field" },
+    "sub": "Counselling, clinical training, research and outreach — in clinics, schools and communities.",
+    "items": [
+      { "tag": "Clinical", "title": "Consultant Psychologist", "text": "Conducted individual counselling sessions, assisted in psychological assessments and prepared case documentation & reports." },
+      { "tag": "Training", "title": "Psychiatry Training", "text": "Assisted in psychological assessments, counselling and aversion-therapy sessions; conducted case-history taking under supervision." },
+      { "tag": "Community", "title": "Community Extension Program", "text": "Led a mental-health awareness session for children of Mahila Shikshan Kendra (Kerala Mahila Samakhya Society) with structured well-being activities." },
+      { "tag": "Research", "title": "Synopsis Presentation", "text": "\"Impact of Body Dysmorphic Disorder & Self-Esteem among High-School, Higher-Secondary & College Students\" — methodology & literature review." },
+      { "tag": "School Talk", "title": "GMLP School, Korad", "text": "Motivational session — \"Create a Healthy & Happy Space: Beyond Screens.\"" },
+      { "tag": "School Talk", "title": "AMLPS Chilavil", "text": "Motivational session — \"Grow with Good Habits, Not with Mobiles.\"" },
+      { "tag": "Guest Speaker", "title": "eBird Academy", "text": "Guest talk on stress management & academic pressure for 8th, 9th and 10th-grade students." },
+      { "tag": "Wellness", "title": "Yoga Training", "text": "Guest session for NSS & MSc Psychology students at Sahya Arts & Science College." }
+    ]
+  },
+
+  "reels": {
+    "eyebrow": "On Social Media",
+    "title": { "lead": "Mental health,", "grad": "unfiltered." },
+    "sub": "Short, honest contents on overthinking, self-worth and everyday well-being — as a psychologist & content creator.",
+    "items": [
+      { "code": "DYTX3zep_XI", "thumb": "assets/reel-1.jpeg", "caption": "Social Media v/s Reality" },
+      { "code": "DOgQjPIkka0", "thumb": "assets/reel-2.jpeg", "caption": "Don't Let Overthinking Win" },
+      { "code": "DOaJXjGE63i", "thumb": "assets/reel-3.jpeg", "caption": "A Truly Valuable Quality" },
+      { "code": "DO_BAfCklD_", "thumb": "assets/reel-4.jpeg", "caption": "Understand, Don't Judge" },
+      { "code": "DOXk5Zwkrw8", "thumb": "assets/reel-5.jpeg", "caption": "Life Is Precious & Powerful" },
+      { "code": "DOU_UXOkl8C", "thumb": "assets/reel-6.jpeg", "caption": "I'm 23, Already…" }
+    ],
+    "moreText": "View more",
+    "moreUrl": "https://www.instagram.com/_better.bee?igsh=OTN1aWs1Z2ZzNmxo"
+  },
+
+  "contact": {
+    "title": { "line1": "TAKE THE FIRST", "line2": "STEP TOWARD", "line3": "FEELING WELL" },
+    "lead": "Reach out for a confidential conversation. Whether it's for yourself, your child, or your community — let's start where you are.",
+    "rows": [
+      { "type": "phone", "label": "Call / WhatsApp", "value": "+91 90724 59672", "href": "tel:+919072459672" },
+      { "type": "email", "label": "Email", "value": "nhanina162@gmail.com", "href": "mailto:nhanina162@gmail.com" },
+      { "type": "location", "label": "Location", "value": "Ozhur, Tirur, Malappuram, Kerala — 676307" }
+    ],
+    "ctaText": "BOOK A CONSULTATION NOW",
+    "ctaHref": "mailto:nhanina162@gmail.com?subject=Consultation%20Request&body=Hi%20Hanina%2C%20I%27d%20like%20to%20book%20a%20session."
+  },
+
+  "footer": {
+    "note": "Promoting emotional well-being through evidence-based, compassionate psychological care.",
+    "links": [
+      { "label": "About", "href": "#about" },
+      { "label": "How I Help", "href": "#help" },
+      { "label": "Sessions", "href": "#sessions" },
+      { "label": "Contact", "href": "#contact" }
+    ],
+    "socials": [
+      { "type": "linkedin", "href": "https://linkedin.com/in/haninahamza" },
+      { "type": "instagram", "href": "https://www.instagram.com/_better.bee?igsh=OTN1aWs1Z2ZzNmxo" },
+      { "type": "email", "href": "mailto:nhanina162@gmail.com" }
+    ],
+    "copyright": "Hanina N · Consultant Psychologist. All rights reserved."
+  }
+}

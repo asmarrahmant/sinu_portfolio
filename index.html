@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Hanina N — Consultant Psychologist. Counselling, psychological assessment & mental-health awareness rooted in evidence-based, compassionate care." />
+  <meta name="author" content="Hanina N" />
+  <title>Hanina N · Consultant Psychologist</title>
+
+  <!-- favicons / app icons (open-mind logo) -->
+  <link rel="icon" type="image/svg+xml" href="assets/logo.svg" />
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png" />
+  <link rel="manifest" href="site.webmanifest" />
+  <meta name="theme-color" content="#ff5a1f" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,500;1,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+  <!-- scroll progress bar -->
+  <div class="scroll-progress" id="scrollProgress" aria-hidden="true"></div>
+
+  <!-- All content is rendered from data.json — edit that file to add/remove/update. -->
+
+  <!-- ============ NAVBAR ============ -->
+  <header class="nav" id="nav">
+    <div class="container nav__inner">
+      <a href="#hero" class="brand" id="navBrand"></a>
+      <nav class="nav__links" id="navLinks"></nav>
+      <button class="nav__toggle" id="navToggle" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <!-- ============ HERO ============ -->
+  <section class="hero" id="hero">
+    <div class="hero__glow"></div>
+    <div class="container hero__inner">
+      <div class="hero__copy" id="heroCopy"></div>
+      <div class="hero__visual" id="heroVisual"></div>
+    </div>
+    <a href="#band" class="hero__scroll" aria-label="Scroll down"><span></span></a>
+  </section>
+
+  <!-- ============ ORANGE BAND ============ -->
+  <section class="band" id="band">
+    <div class="container band__inner" id="bandInner"></div>
+  </section>
+
+  <!-- ============ ABOUT ============ -->
+  <section class="about" id="about">
+    <div class="container about__inner" id="aboutInner"></div>
+  </section>
+
+  <!-- ============ MY APPROACH (neural brain) ============ -->
+  <section class="mind" id="approach">
+    <div class="mind__glow"></div>
+    <div class="container mind__inner" id="approachInner"></div>
+  </section>
+
+  <!-- ============ HOW I HELP ============ -->
+  <section class="help" id="help">
+    <div class="help__bg"></div>
+    <div class="container" id="helpInner"></div>
+  </section>
+
+  <!-- ============ EXPERTISE ============ -->
+  <section class="expertise" id="expertise">
+    <div class="container expertise__inner" id="expertiseInner"></div>
+  </section>
+
+  <!-- ============ JOURNEY ============ -->
+  <section class="journey" id="journey">
+    <div class="container" id="journeyInner"></div>
+  </section>
+
+  <!-- ============ SESSIONS / PROGRAMS ============ -->
+  <section class="sessions" id="sessions">
+    <div class="container" id="sessionsInner"></div>
+  </section>
+
+  <!-- ============ REELS / SOCIAL MEDIA ============ -->
+  <section class="reels" id="reels">
+    <div class="reels__glow"></div>
+    <div class="container" id="reelsInner"></div>
+  </section>
+
+  <!-- video lightbox -->
+  <div class="vmodal" id="vmodal" aria-hidden="true">
+    <div class="vmodal__backdrop" data-close></div>
+    <div class="vmodal__dialog" role="dialog" aria-modal="true" aria-label="Instagram reel player">
+      <button class="vmodal__close" id="vmodalClose" aria-label="Close video" data-close>&times;</button>
+      <div class="vmodal__frame">
+        <span class="vmodal__spin" aria-hidden="true"></span>
+        <iframe id="vframe" title="Instagram reel"
+                src="about:blank" scrolling="no" frameborder="0"
+                allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+      </div>
+      <a class="vmodal__open" id="vmodalOpen" href="#" target="_blank" rel="noopener">Open on Instagram &#8599;</a>
+    </div>
+  </div>
+
+  <!-- ============ FINAL CTA ============ -->
+  <section class="cta" id="contact">
+    <div class="cta__glow"></div>
+    <div class="container cta__inner" id="contactInner"></div>
+  </section>
+
+  <!-- ============ FOOTER ============ -->
+  <footer class="footer">
+    <div class="container footer__inner" id="footerInner"></div>
+    <div class="footer__bar">
+      <div class="container">© <span id="year"></span> <span id="footerCopy"></span></div>
+    </div>
+  </footer>
+
+  <!-- toast -->
+  <div class="toast" id="toast"></div>
+
+  <!-- shown only if data.json fails to load (e.g. opened via file://) -->
+  <div class="data-error" id="dataError" hidden></div>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
